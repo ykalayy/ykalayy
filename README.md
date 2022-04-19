@@ -1,7 +1,16 @@
-### Hi there 👋
-<a href="https://github.com/ykalayy">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ykalayy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</a>
+### Hi, here is Yusuf
+
++ Java
++ Golang
++ Distributed Systems
++ Concurrency
++ Software Architecture & Design
++ TDD
++ Clean Code Development
+
+[![Ykalayy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykalayy&show_icons=true&theme=solarized-dark)](https://github.com/ykalayy) 
+
+[![Linkedin: Yusuf Kalay](https://img.shields.io/badge/-YusufKalay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusuf-kalay-a7b384101/)](https://www.linkedin.com/in/yusuf-kalay-a7b384101/)
 
 <!--
 **ykalayy/ykalayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
